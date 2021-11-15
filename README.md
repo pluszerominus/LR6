@@ -24,6 +24,7 @@
 23. Загружаем ветку в удалённый репозиторий  
 ![](https://github.com/pluszerominus/LR6/blob/report/Screen/13.jpg)
 24. Лог команд  
+  
 git clone https://github.com/pluszerominus/LR6  
 git pull  
 git reflog --all  
@@ -39,7 +40,9 @@ git reset --hard HEAD
 git checkout -b report  
 git branch  
 git push --set-upstream origin report  
+  
 25. История коммитов  
+  
 commit 49c7f4ede5e2ed4e529b35d0753095bfc322e03f (HEAD -> report, origin/report)  
 Author: pluszerominus <Top-Bletka@yandex.ru>  
 Date:   Mon Nov 15 13:03:34 2021 +0300  
@@ -144,4 +147,5 @@ Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>
 Date:   Sat Nov 13 18:22:00 2021 +0300  
   
     Create README.md  
+  
   
