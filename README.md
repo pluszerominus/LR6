@@ -86,7 +86,7 @@ Date:   Mon Nov 15 13:37:39 2021 +0300
     Added screenshot  
   
 commit 15a23e55206fadaac5f0e711b82a77efde13a593  
-Author: pluszerominus Top-Bletka@yandex.ru 
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:12:03 2021 +0300  
   
     Update README.md  
@@ -94,12 +94,6 @@ Date:   Mon Nov 15 13:12:03 2021 +0300
     added screenshot  
   
 commit 49c7f4ede5e2ed4e529b35d0753095bfc322e03f  
-Author: pluszerominus <Top-Bletka@yandex.ru>  
-Date:   Mon Nov 15 13:03:34 2021 +0300  
-  
-    added screenshot  
-  
-commit 49c7f4ede5e2ed4e529b35d0753095bfc322e03f 
 Author: pluszerominus <Top-Bletka@yandex.ru>  
 Date:   Mon Nov 15 13:03:34 2021 +0300  
   
