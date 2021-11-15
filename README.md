@@ -44,49 +44,49 @@ git push --set-upstream origin report
 25. История коммитов  
   
 commit 27ed63be067b2b3212d176ca9c29a3bfd269d267 (HEAD -> report, origin/report)  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 14:04:38 2021 +0300  
   
     Update README.md  
   
 commit 6213a48b8c48f37269bca683225f518bc956e6a0  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 14:03:43 2021 +0300  
   
     Added commit  
   
 commit 1cdfe9e3e3b7a882dc390eb4065d3573bae1ca11  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:56:54 2021 +0300  
   
     added log  
   
 commit 3bc7435b2a50e733fe397ec738d3f5fd5ecf7ae0  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:46:39 2021 +0300  
   
     Update README.md  
   
 commit d3f0bb42f40029e7e9498cd37f2f1a5ba402d998  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:42:02 2021 +0300  
   
     Update README.md  
   
 commit 2cdcc070ded9e57774f0b013b616b35416026143  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:38:29 2021 +0300  
   
     Update README.md  
   
 commit 42de5d4523fdc9af6661710dbf0a43a9a75d2fab  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Mon Nov 15 13:37:39 2021 +0300  
   
     Added screenshot  
   
 commit 15a23e55206fadaac5f0e711b82a77efde13a593  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru 
 Date:   Mon Nov 15 13:12:03 2021 +0300  
   
     Update README.md  
@@ -157,25 +157,25 @@ Date:   Sun Nov 14 09:21:07 2021 +0300
     delete extra information  
   
 commit 5a69564ea7a2eab77a99503dfe7fe6054bf5d4cf  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Sun Nov 14 08:59:27 2021 +0300  
   
     Update mergefile.txt  
   
 commit e72d5892436d3aae58e576b115271f48d49c6a88  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Sun Nov 14 08:58:55 2021 +0300  
   
     Update mergefile.txt  
   
 commit 67d45a9797df1ef524ae00a6a8d6b44c775830f6 (origin/pluszerominus-patch-1)  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Sun Nov 14 08:44:09 2021 +0300  
   
     Update mergefile.txt  
   
 commit ea8c7b1066b1c9c756e7b4da85f0478809bb175c  
-Author: pluszerominus <59607427+pluszerominus@users.noreply.github.com>  
+Author: pluszerominus Top-Bletka@yandex.ru  
 Date:   Sun Nov 14 08:43:15 2021 +0300  
   
     Update mergefile.txt  
