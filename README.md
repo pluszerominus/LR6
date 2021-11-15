@@ -8,7 +8,7 @@
 7. Смотрим последние изменения  
 ![Последние изменения](https://github.com/pluszerominus/LR6/blob/report/Screen/4.jpg)
 9. Для слияния с папкой main переходим в неё   
-![](https://github.com/pluszerominus/LR6/blob/report/Screen/6.1.jpg)
+![](https://github.com/pluszerominus/LR6/blob/report/Screen/5.1.jpg)
 11. Начинаем слияние но из-за конфликта слияние не завершается   
 ![](https://github.com/pluszerominus/LR6/blob/report/Screen/6.1.jpg)
 13. Выводим причину конфликта и решаем его изменив файлы  
@@ -23,3 +23,19 @@
 ![](https://github.com/pluszerominus/LR6/blob/report/Screen/12.jpg)
 23. Загружаем ветку в удалённый репозиторий  
 ![](https://github.com/pluszerominus/LR6/blob/report/Screen/13.jpg)
+24. Лог команд  
+git clone https://github.com/pluszerominus/LR6  
+git pull  
+git reflog --all  
+git log -p  
+git checkout main  
+git merge  master  
+git diff  
+git branch -d master  
+git add addfile.txt  
+git commit -m "new information"
+git commit -m "new information 2"
+git reset --hard HEAD
+git checkout -b report
+git branch
+git push --set-upstream origin report
